@@ -14,7 +14,7 @@ function App() {
               {/* 모달 창을 열기 위한 컴포넌트 작성 부분 */}
               <NewModal.Open>
                 <button className="px-6 py-2 font-semibold text-gray-100 bg-green-500 border-none rounded cursor-pointer">
-                  New Add Todo
+                  New Add Todo1234
                 </button>
               </NewModal.Open>
               {/* 모달 내부에 들어갈 컨텐츠용 컴포넌트 작성 부분 */}
